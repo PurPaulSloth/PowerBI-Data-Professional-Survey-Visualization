@@ -33,7 +33,7 @@ This project is my first Power BI visualization dashboard, completed as part of 
 * Designing user-friendly dashboards.
 
 ## Dashboard Screenshot
-![Power BI Dashboard Screenshot](images/dashboard_screenshot.png)
+![Power BI Dashboard Screenshot](Images/Data Professional Survey Breakdown Project.pdf)
 
 ## Acknowledgments
 
